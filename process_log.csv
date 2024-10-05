@@ -1,0 +1,12 @@
+2024-10-05 09:38:12,433, User registered: lolo@gmail.com
+2024-10-05 09:38:32,956, User logged in: lolo@gmail.com
+2024-10-05 09:38:38,542, Fetched AQI data for london: {'coord': {'lon': -0.1276, 'lat': 51.5073}, 'list': [{'main': {'aqi': 1}, 'components': {'co': 257.02, 'no': 0.06, 'no2': 23.65, 'o3': 27.54, 'so2': 6.32, 'pm2_5': 6.46, 'pm10': 7.79, 'nh3': 0.28}, 'dt': 1728101318}]}
+2024-10-05 09:42:29,949, User registered: test@gmail.com
+2024-10-05 09:42:59,826, User logged in: test@gmail.com
+2024-10-05 09:43:58,509, User logged in: test@gmail.com
+2024-10-05 09:45:16,607, User logged in: test@gmail.com
+2024-10-05 09:47:10,446, User logged in: test@gmail.com
+2024-10-05 09:49:04,009, User logged in: test@gmail.com
+2024-10-05 09:49:07,985, Fetched AQI data for london: {'coord': {'lon': -0.1276, 'lat': 51.5073}, 'list': [{'main': {'aqi': 1}, 'components': {'co': 257.02, 'no': 0.06, 'no2': 23.65, 'o3': 27.54, 'so2': 6.32, 'pm2_5': 6.46, 'pm10': 7.79, 'nh3': 0.28}, 'dt': 1728101948}]}
+2024-10-05 09:52:11,410, User registered: test@gmail.com
+2024-10-05 09:52:11,411, Password reset for user: test@gmail.com
